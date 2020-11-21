@@ -37,9 +37,9 @@ Week 4 is all about the Course Project, producing a Shiny Application and reprod
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
-- [Shiny app for Swiss data exploration](https://wamber.shinyapps.io/swissdata/)
-  - [ui.R](https://github.com/wamber-aww/coursera-data-science/blob/gh-pages/Course09_DataProducts/ui.R)
-  - [server.R](https://github.com/wamber-aww/coursera-data-science/blob/gh-pages/Course09_DataProducts/server.R)
+- [Shiny app for Swiss data exploration](https://kartikeyhadiya.shinyapps.io/shinyapp/)
+  - [ui.R](https://github.com/kartikeyhadiya-clg/CourseraAssignments/blob/main/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/ui.R)
+  - [server.R](https://github.com/kartikeyhadiya-clg/CourseraAssignments/blob/main/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/server.R
 
 - [Presentation](https://wamber-aww.github.io/coursera-data-science/Course09_DataProducts/presentation.html#1)
 
