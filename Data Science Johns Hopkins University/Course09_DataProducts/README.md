@@ -11,12 +11,12 @@ The assignments link to the html pages containing the project description, the f
 ### Week 1: Overview
 In this overview module, we'll go over some information and resources to help you get started and succeed in the course.
 
-- [Week 1 quiz](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data_Science_Johns_Hopkins_University/Course09_DataProducts/W1Quiz.html)
+- [Week 1 quiz](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/W1Quiz.html)
 
 ### Week 2: R Markdown and Leaflet
 During this module, we'll learn how to create R Markdown files and embed R code in an Rmd. We'll also explore Leaflet and use it to create interactive annotated maps.
 
-- [Week 2 quiz](https://wamber-aww.github.io/coursera-data-science/Course09_DataProducts/W2Quiz.html)
+- [Week 2 quiz](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/W2Quiz.html)
 
 Create a web page using R Markdown that features a map created with Leaflet. Host your webpage on either GitHub Pages, RPubs, or NeoCities.  
 Your webpage must contain the date that you created the document, and it must contain a map created with Leaflet. We would love to see you show off your creativity!
@@ -26,11 +26,11 @@ Your webpage must contain the date that you created the document, and it must co
 ### Week 3: R Packages
 In this module, we'll dive into the world of creating R packages and practice developing an R Markdown presentation that includes a data visualization built using Plotly.
 
-- [Week 3 quiz](https://wamber-aww.github.io/coursera-data-science/Course09_DataProducts/W3Quiz.html)
+- [Week 3 quiz](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/W3Quiz.html)
 
 Create a web page presentation using R Markdown that features a plot created with Plotly. Host your webpage on either GitHub Pages, RPubs, or NeoCities. Your webpage must contain the date that you created the document, and it must contain a plot created with Plotly. We would love to see you show off your creativity!
 
-- [Week 3 assignment writeup](https://wamber-aww.github.io/coursera-data-science/Course09_DataProducts/W3Hw.html)
+- [Week 3 assignment writeup](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/W3Hw.html)
 
 ### Week 4: Swirl and Course Project
 Week 4 is all about the Course Project, producing a Shiny Application and reproducible pitch.
