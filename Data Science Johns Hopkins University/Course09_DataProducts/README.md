@@ -41,5 +41,5 @@ This peer assessed assignment has two parts. First, you will create a Shiny appl
   - [ui.R](https://github.com/kartikeyhadiya-clg/CourseraAssignments/blob/main/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/ui.R)
   - [server.R](https://github.com/kartikeyhadiya-clg/CourseraAssignments/blob/main/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/server.R)
 
-- [Presentation](https://wamber-aww.github.io/coursera-data-science/Course09_DataProducts/presentation.html#1)
+- [Presentation](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/presentation.html#1)
 
