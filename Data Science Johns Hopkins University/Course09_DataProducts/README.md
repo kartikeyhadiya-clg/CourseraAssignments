@@ -21,7 +21,7 @@ During this module, we'll learn how to create R Markdown files and embed R code 
 Create a web page using R Markdown that features a map created with Leaflet. Host your webpage on either GitHub Pages, RPubs, or NeoCities.  
 Your webpage must contain the date that you created the document, and it must contain a map created with Leaflet. We would love to see you show off your creativity!
 
-- [Week 2 assignment writeup](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data_Science_Johns_Hopkins_University/Course09_DataProducts/W2Hw.html)
+- [Week 2 assignment writeup](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data%20Science%20Johns%20Hopkins%20University/Course09_DataProducts/W2Hw.html)
 
 ### Week 3: R Packages
 In this module, we'll dive into the world of creating R packages and practice developing an R Markdown presentation that includes a data visualization built using Plotly.
