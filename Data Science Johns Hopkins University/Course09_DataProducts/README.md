@@ -11,7 +11,7 @@ The assignments link to the html pages containing the project description, the f
 ### Week 1: Overview
 In this overview module, we'll go over some information and resources to help you get started and succeed in the course.
 
-- [Week 1 quiz](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data Science Johns Hopkins University/Course09_DataProducts/W1Quiz.html)
+- [Week 1 quiz](https://kartikeyhadiya-clg.github.io/CourseraAssignments/Data_Science_Johns_Hopkins_University/Course09_DataProducts/W1Quiz.html)
 
 ### Week 2: R Markdown and Leaflet
 During this module, we'll learn how to create R Markdown files and embed R code in an Rmd. We'll also explore Leaflet and use it to create interactive annotated maps.
